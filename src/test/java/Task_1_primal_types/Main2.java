@@ -1,11 +1,8 @@
 //
 // Source code recreated from a .class file by IntelliJ IDEA
-// (powered by Fernflower decompiler)
-//
-
+// (powered by Fernflower decompile
 package test.java.Task_1_primal_types;
-
-        import java.util.Scanner;
+import java.util.Scanner;
 
 public class Main2 {
     public Main2() {
